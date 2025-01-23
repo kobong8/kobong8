@@ -37,7 +37,7 @@
 
 <!-- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko-bong&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=radical)](https://github.com/ko-bong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobong8&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=radical)](https://github.com/kobong8/github-readme-stats)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko-bong&layout=compact&theme=radical) -->
 
