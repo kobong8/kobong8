@@ -37,16 +37,16 @@
 
 <!-- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnmkr8&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=radical)](https://github.com/rnmkr8/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko-bong&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=radical)](https://github.com/ko-bong/github-readme-stats)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnmkr8&layout=compact&theme=radical) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko-bong&layout=compact&theme=radical) -->
 
-<!-- [![rnmkr8's github stats](https://github-readme-stats.vercel.app/api?username=rnmkr8)](https://github.com/rnmkr8/github-readme-stats) -->
+<!-- [![ko-bong's github stats](https://github-readme-stats.vercel.app/api?username=ko-bong)](https://github.com/ko-bong/github-readme-stats) -->
 
 </div>
 
 <!--
-**rnmkr8/rnmkr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ko-bong/ko-bong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
